@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Customized_linked_list_class"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Customized_linked_list_class">
+				<Option output="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug/Customized_linked_list_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 Customized_linked_list_class"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Customized_linked_list_class/fast">
+				<Option output="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug/Customized_linked_list_class" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 Customized_linked_list_class/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/raspberry/Desktop/Fall\ 2020/CIE\ 205\ -\ Data\ Structures\ and\ Algorithm\ Analysis/MyProject/Customized\ linked\ list\ class/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/LinkedListMissions.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/LinkedListMissions.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/EmergencyMission.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/EmergencyMission.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/MountainousMission.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/MountainousMission.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/PolarMission.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/PolarMission.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/NodeMission.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/NodeMission.h">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/main.cpp">
+			<Option target="Customized_linked_list_class"/>
+		</Unit>
+		<Unit filename="/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

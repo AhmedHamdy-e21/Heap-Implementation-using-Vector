@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/LinkedListMissions.h
+NodeMission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/NodeMission.h
+Mission related/Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.h
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/EmergencyMission.h
+Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.h
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.h
+iostream
+-
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/NodeMission.h
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/main.cpp
+iostream
+-
+LinkedListMissions.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/LinkedListMissions.h
+Mission related/Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/Mission.h
+Mission related/EmergencyMission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized linked list class/Mission related/EmergencyMission.h
+
