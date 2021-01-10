@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Max Heap/MaxHeap.cpp
+MaxHeap.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Max Heap/MaxHeap.h
+algorithm
+-
+vector
+-
+../Mission related/Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/Mission.h
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Max Heap/MaxHeap.h
+../Mission related/Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/Mission.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/EmergencyMission.h
+Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/Mission.h
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/Mission.h
+iostream
+-
+
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/main.cpp
+iostream
+-
+Mission related/Mission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/Mission.h
+Mission related/EmergencyMission.h
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Mission related/EmergencyMission.h
+Max Heap/MaxHeap.cpp
+/home/raspberry/Desktop/Fall 2020/CIE 205 - Data Structures and Algorithm Analysis/MyProject/Customized Heap/Max Heap/MaxHeap.cpp
+
